@@ -1,0 +1,40 @@
+html{
+	background:#0D0019;
+}
+
+
+/*Hallo*/
+h1{
+	font-size: 75px; 
+	color:#FF00FF;
+}
+
+.nav{
+	color:#FF6600 ;
+	font-size: 40px;
+	list-style: none;
+
+}
+
+li{
+	list-style-type: none;
+}
+
+.nav:hover{
+	color: #FF9900;
+}
+
+.merk{
+	color: #FF6600;
+	font-size: 40px;
+	list-style: none;
+
+}
+.merk:hover{
+color: #FF9900;
+}
+
+.nav:li{
+font-size: 40px;
+color: #00FFFF;
+}
